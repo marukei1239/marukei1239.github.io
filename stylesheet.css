@@ -27,20 +27,20 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://media.xico.media/wp/wp-content/uploads/2017/07/15183959/CF004342ee.jpg);
+  background-image: url(https://vps15-d.kuku.lu/files/20200826-1221_9d436424cf038651b9ce6b86a87e4eb1.jpeg);
   background-size: cover;
   color: white;
   text-align: center;
 }
 
 .top-wrapper h1 {
-  opacity: 0.7;
+  opacity: 1;
   font-size: 45px;
   letter-spacing: 5px;
 }
 
 .top-wrapper p {
-  opacity: 0.7;
+  opacity: 1;
 }
 
 .btn-wrapper {
